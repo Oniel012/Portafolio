@@ -1,0 +1,39 @@
+﻿
+.img1 {
+    width: 25rem;
+    border-radius: 50% 20% / 10% 40%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+h2{
+   margin-top: 25px; 
+}
+.section-welcome{
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+.section-welcome h1{
+    margin-bottom: 1rem;
+}
+.section-welcome p{
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+#images img{
+    width: 25rem;
+    padding-right: 5rem;
+}
+#images .imgF{
+    width: 18rem;
+}
+.habilidades ul{
+    list-style: none;
+}
+.habilidades h4{
+    padding-top:5px;
+}
+.habilidades i{
+    font-size: 50px;
+    color: #0d6efd
+}

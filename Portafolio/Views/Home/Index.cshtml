@@ -1,8 +1,11 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Home Page";
 }
+@model Portafolio.Models.ProyectViewModel
+
 
 <partial name="_Presentacion" />
 
 <partial name="_Habilidades" />
+
+<partial name="_Proyectos" model="Model.Proyects"/>
